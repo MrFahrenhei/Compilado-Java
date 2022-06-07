@@ -11,10 +11,9 @@
 </p>  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MrFahrenhei/Compilado-Java?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/MrFahrenhei/Java-8?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/MrFahrenhei/Compilado-Java?style=for-the-badge)
 
-Two hard college work
+Small cafe, using OOP, Inheritance, Interface, Enum and Polimorfism.
 
 <p align="left">
   🦄 Language: <strong> 
